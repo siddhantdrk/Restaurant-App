@@ -1,5 +1,8 @@
 # Restaurant App for ordering food online at your doorstep.
 
+## Drive link to .apk
+https://drive.google.com/file/d/1KfuZmMqWBALTz6aloIICBvK3ekF9gacG/view?usp=sharing
+
 ## Main Componets of the Project
 - Android app
 - Admin Panel

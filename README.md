@@ -1,4 +1,4 @@
-# DoughPaze - Restaurant App for ordering food online at your doorstep.
+# Restaurant App for ordering food online at your doorstep.
 
 ## Main Componets of the Project
 - Android app
